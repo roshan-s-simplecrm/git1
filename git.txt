@@ -10,3 +10,8 @@
 6. Creating a README file to describe the repository :gedit README 
    add any text in this file  
    
+7. Add file in github repository : 
+
+git add README
+git add index.html
+git add .        //this is for all files
