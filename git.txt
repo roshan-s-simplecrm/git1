@@ -1,0 +1,12 @@
+1. Install Github in local system : sudo apt-get install git
+2. This is for github username :git config --global user.name "user_name"
+3. This is for github email id :git config --global user.email "email_id"
+4. Creating a local repository :git init git1
+   if this is successfully done then it is showing following line 
+   Initialized empty Git repository in /home/akshay/git1/.git/
+   
+5. Select New directory : cd git1
+
+6. Creating a README file to describe the repository :gedit README 
+   add any text in this file  
+   
